@@ -1,0 +1,18 @@
+*{
+    margin : 0%;
+    
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+li a {
+    color: rgb(28, 0, 128);
+}
+
+.background {
+    background: white url("images/a.jpg") no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
