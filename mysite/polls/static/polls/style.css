@@ -7,11 +7,12 @@ body{
     height: 100vh;
 }
 li a {
-    color: rgb(28, 0, 128);
+    color: rgb(70, 175, 37);
 }
 
 .background {
-    background: white url("images/a.jpg") no-repeat;
+    background-color: rgb(255, 255, 255) ;
+    /* background-image: url("images/a.jpg") no-repeat; */
     background-size: cover;
     width: 100%;
     height: 100%;
