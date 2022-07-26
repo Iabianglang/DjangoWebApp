@@ -80,3 +80,8 @@ INSTALLED_APPS = [
     'io_node_dashboard',
 ]
 ```
+# Running a test
+
+```
+py manage.py test polls
+```
