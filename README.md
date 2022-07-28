@@ -12,7 +12,7 @@ Tools used:
 
 In the command line, cd into a directory where you’d like to store your code, then run the following command:
 
-```
+```py
 django-admin startproject ctrl_node_visualization 
 ```
 
@@ -69,7 +69,7 @@ views.py - functions & classes that define how the data is displayed in the temp
 
 Append the app's name to the INSTALLED_APPS list:
 
-```
+```py
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
